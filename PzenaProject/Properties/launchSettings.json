@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PzenaProject": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\edwar\\Downloads\\Pzena\""
+    }
+  }
+}

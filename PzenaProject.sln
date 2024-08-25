@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PzenaProject", "PzenaProject\PzenaProject.csproj", "{BAF44FA8-4EA7-4A7B-8924-337952EAABFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF44FA8-4EA7-4A7B-8924-337952EAABFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF44FA8-4EA7-4A7B-8924-337952EAABFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF44FA8-4EA7-4A7B-8924-337952EAABFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF44FA8-4EA7-4A7B-8924-337952EAABFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38362E40-D645-4CC1-B870-F1B4CE1C81D2}
+	EndGlobalSection
+EndGlobal
