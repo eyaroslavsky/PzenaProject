@@ -6,4 +6,6 @@ This project starts from the Program.cs file, where no Main() method is needed d
 
 This project takes in one argument that represents the root folder location of the CSV files (Example argument would look like: "D:\Temp\RootProjectFolder").
 
-This project uses the localhost server for the SQL Server database instance and Windows Authentication, creating a new "Pzena" database as needed.    
+This project uses the localhost server for the SQL Server database instance and Windows Authentication, creating a new "Pzena" database as needed. 
+
+This project uses the Nuget packages "Dapper" and "CsvHelper".
